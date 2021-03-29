@@ -1,3 +1,4 @@
 # ps4inreactnative
 PS4 style in React-Native
-![Screenshot](Screenshot from 2021-03-29 00-21-30.png)
+![stack Overflow](https://aux.iconspalace.com/uploads/1680618524919476813.png)
+
