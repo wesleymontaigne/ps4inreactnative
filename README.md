@@ -1,4 +1,5 @@
 # ps4inreactnative
 PS4 style in React-Native
-![stack Overflow](https://aux.iconspalace.com/uploads/1680618524919476813.png)
+![stack Overflow](http://wesleymontaigne.com/img/ps4inreact.png)
+see in youtube:https://www.youtube.com/watch?v=8W_fszkpcUU&ab_channel=TAFAPPFabricadeAplicativos
 
